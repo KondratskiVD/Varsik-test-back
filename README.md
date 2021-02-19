@@ -1,3 +1,9 @@
-1. yarn
+## Project setup
+```
+yarn
+```
 
-2. yarn start
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
